@@ -9,5 +9,4 @@
 </template>
 
 <script scoped type="script" src="./js/js-home.js"></script>
-
 <style lang="scss" scoped src="./css/style-home.scss"></style>

@@ -20,6 +20,8 @@ export default {
 		
     mounted(){
 
+      TweenMax.to('h1',2,{x:400,yoyo:true,repeat:-1})
+
         }, // mounted
         
         beforeRouteLeave(to, from, next) {

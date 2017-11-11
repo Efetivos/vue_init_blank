@@ -22,4 +22,4 @@
 </template>
 
 <script scoped type="script" src="./js/js-mymenu.js"></script>
-<style scoped src="./css/style-mymenu.css"></style> 
+<style lang="scss" scoped src="./css/style-menu.scss"></style>

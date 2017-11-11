@@ -5,4 +5,4 @@
 </template>
 
 <script scoped type="script" src="./js/js-inner.js"></script>
-<style scoped src="./css/style-inner.css"></style> 
+<style lang="scss" scoped src="./css/style-barbara.scss"></style>
